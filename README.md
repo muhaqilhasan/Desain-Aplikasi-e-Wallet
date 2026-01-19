@@ -10,7 +10,7 @@ Berikut adalah simulasi *prototype* dari desain aplikasi Maupay:
 
 ## ✨ Fitur Utama
 
-Berdasarkan rancangan desain, aplikasi ini mencakup alur pengguna (user flow) berikut:
+Rancangan desain, aplikasi ini mencakup alur pengguna (user flow) berikut:
 
 * **Onboarding & Autentikasi**
     * Login dan Registrasi menggunakan Nomor HP.
