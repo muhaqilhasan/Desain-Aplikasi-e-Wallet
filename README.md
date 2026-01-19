@@ -45,11 +45,5 @@ Berdasarkan rancangan desain, aplikasi ini mencakup alur pengguna (user flow) be
 * `Desain E-Wallet (1).pdf`: Dokumentasi tampilan layar per layar (High Fidelity).
 * `Tampilan-Figma.gif`: Animasi demo penggunaan aplikasi.
 
-## 🎨 Galeri Tampilan
-
-| Login Screen | Dashboard | Pilihan Transfer |
-| :---: | :---: | :---: |
-| *(Anda bisa menambahkan screenshot statis di sini dari file PDF)* | *(Screenshot Dashboard)* | *(Screenshot Menu Transfer)* |
-
 ---
-*Dibuat oleh [Nama Anda/Tim Anda]*
+*Dibuat oleh [Muhammad Aqil Hasan Al Ghifari]*
