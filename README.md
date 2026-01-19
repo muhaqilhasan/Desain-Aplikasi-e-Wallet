@@ -8,8 +8,6 @@ Berikut adalah simulasi *prototype* dari desain aplikasi Maupay:
 
 ![Demo Aplikasi Maupay](Tampilan-Figma.gif)
 
-> *Catatan: Pastikan file `Tampilan-Figma.gif` berada dalam satu folder dengan file README ini agar gambar di atas muncul.*
-
 ## ✨ Fitur Utama
 
 Berdasarkan rancangan desain, aplikasi ini mencakup alur pengguna (user flow) berikut:
